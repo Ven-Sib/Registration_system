@@ -1,0 +1,10 @@
+{% extends 'registration/base2.html' %}
+{% block content %}
+<div class="container d-flex flex-column justify-content-center align-items-center mt-5" style="min-height: 70vh;">
+    <h1 class="display-4 text-center mb-4">Welcome to University Registration System</h1>
+    <div>
+        <a href="{% url 'register' %}" class="btn btn-primary btn-lg mx-2">Register</a>
+        <a href="{% url 'login' %}" class="btn btn-success btn-lg mx-2">Login</a>
+    </div>
+</div>
+{% endblock %}
