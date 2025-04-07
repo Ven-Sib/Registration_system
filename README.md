@@ -68,7 +68,17 @@ registration_system/
 
 ## 📸 Screenshots
 
-![Screenshot 2025-04-06 220952](https://github.com/user-attachments/assets/1266b944-6ea3-49be-8196-28e5911d1deb)
+
+![Screenshot 2025-04-06 220901](https://github.com/user-attachments/assets/31ac9bb2-74ba-4aa1-a812-8cb23eb41377)
+![Screenshot 2025-04-06 220921](https://github.com/user-attachments/assets/83889461-c89e-4e55-9c2b-f8393e61fb8d)
+![Screenshot 2025-04-06 220940](https://github.com/user-attachments/assets/5208fa24-ca81-435a-bfc9-81d46c1210eb)
+![Screenshot 2025-04-06 221004](https://github.com/user-attachments/assets/30601160-c8d6-4ff3-82b8-7b33eba67adc)
+![Screenshot 2025-04-06 221423](https://github.com/user-attachments/assets/4d19d76e-af82-4114-a743-717200bcb477)
+
+
+
+
+
 
 
 ## 🙌 Contributing
