@@ -2,7 +2,7 @@
 
 # 🏫 University Course Registration System
 
-A full-featured Django web application that allows students to register, log in, enroll in courses, and manage academic data efficiently. Designed to simulate a real university registration portal with a secure, user-friendly interface.
+A full-featured Django web application that allows students to register, log in, enroll in courses, and manage academic data efficiently. Designed to simulate a real university registration portal with a secure, user-friendly interface. visit my youtube channel on this link https://youtu.be/q6cwcvhQ4-U to check the overview.
 
 ## 🚀 Features
 
